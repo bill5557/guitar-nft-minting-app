@@ -4,7 +4,7 @@ export const endpoint ="https://api-rinkeby.etherscan.io/api";
 export const  nftpng = "https://gateway.pinata.cloud/ipfs/QmVF69pfMjuBr1mcruJiRk8w9f8HiATAyMu5cbfEtFVvqR/";
 export const  infuraId = "6f53cd0fea2c4e308f45ab26d13bc60f";
   
-export const ABI = [
+export const ABI = [ 
     {
         "inputs": [],
         "stateMutability": "nonpayable",
