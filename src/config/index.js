@@ -1,9 +1,11 @@
-export const apikey = "MHX14AY5P9TR2BD534U57DIN13KJ4HT8G1"; //for etherscan
-export const ADDRESS = "0x0C8E284016090c0F53aE724F7Da4249eb4d0de99";
+export const apikey = "<ETHERSCAN API KEY>"; //for etherscan
+export const ADDRESS = "<ADDRESS DEPLOYED TO>";
 export const endpoint ="https://api-rinkeby.etherscan.io/api";
-export const  nftpng = "https://gateway.pinata.cloud/ipfs/QmVF69pfMjuBr1mcruJiRk8w9f8HiATAyMu5cbfEtFVvqR/";
-export const  infuraId = "6f53cd0fea2c4e308f45ab26d13bc60f";
+export const  nftpng = "<PATH TO IPFS BASE>";
+export const  infuraId = "<INFURIA ETHEREUM ID>";
 
+
+//replace ABI With you deployed smart contract ABI
 export const ABI = [
 	{
 		"inputs": [],
