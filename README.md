@@ -14,12 +14,12 @@ Opensea testnet: https://testnets.opensea.io/
 
 
 <img src="https://github.com/davolu/guitar-nft-minting-app/blob/master/src/assets/img/screencapture-localhost-3000-2022-06-15-23_10_04.png" 
-height=600 width=800 
+ 
 />
 
 <img src="https://github.com/davolu/guitar-nft-minting-app/blob/master/src/assets/img/screencapture-localhost-3000-2022-06-15-23_09_51.png"
-height=600 width=800 
+ 
  />
 
 <img src="https://github.com/davolu/guitar-nft-minting-app/blob/master/src/assets/img/Screen%20Shot%202022-06-15%20at%2023.27.00.png" 
-height=600 width=800   />
+ />
